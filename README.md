@@ -2,7 +2,7 @@
 #### Front End Web Developer & Youtuber
 ![Front End Web Developer & Youtuber](https://github.com/ShaunPour/ShaunPour/blob/main/header.png)
 
-I'm Shaun from Southwest Virginia. I do web development and YouTube programming tutorials. I really enjoy learning languages and frameworks like React, Python and TypeScript. My long-term goal is to get a job doing web development. Not a day goes by where I'm not working on at least one personal project and usually more (although I do forget to commit my work sometimes.
+I'm Shaun from Southwest Virginia. I do web development and YouTube programming tutorials. I really enjoy learning languages and frameworks like React, Python and TypeScript. My long-term goal is to get a job doing web development. Not a day goes by where I'm not working on at least one personal project and usually more.
 
 Skills: REACT / JS / HTML / CSS / SASS / BootStrap / Tailwind
 
