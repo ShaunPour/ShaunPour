@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[!Shaun's ReadMe Stats](https://github-readme-stats.vercel.app/api?username=ShaunPour)
+[![Shaun's github stats](https://github-readme-stats.vercel.app/api?username=ShaunPour)](https://github.com/ShaunPour/github-readme-stats)
