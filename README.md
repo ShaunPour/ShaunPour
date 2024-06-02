@@ -1,6 +1,6 @@
 ### Hi there 👋, Shaun Pour
 #### Front End Web Developer & Youtuber
-![Front End Web Developer & Youtuber](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Front End Web Developer & Youtuber](https://github.com/ShaunPour/ShaunPour/blob/main/header.png)
 
 I'm Shaun from Southwest Virginia. I do web development and YouTube programming tutorials. I really enjoy learning languages and frameworks like React, Python and TypeScript. My long-term goal is to get a job doing web development. Not a day goes by where I'm not working on at least one personal project and usually more (although I do forget to commit my work sometimes.
 
