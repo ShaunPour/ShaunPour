@@ -6,7 +6,6 @@ I'm Shaun from Southwest Virginia. I do web development and YouTube programming 
 
 Skills: REACT / JS / HTML / CSS / SASS / BootStrap / Tailwind
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning React & Python 
 - 📫 How to reach me: Shoot me an email at scpour@gmail.com 
 - ⚡ Fun fact: I was born in Malaysia and once rode an elephant in Thailand! 
