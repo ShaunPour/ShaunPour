@@ -1,12 +1,12 @@
 ### Hi there 👋, Shaun Pour
-#### Front End Web Developer & Youtuber
+#### Software Developer & Maker of Ideas
 ![Front End Web Developer & Youtuber](https://github.com/ShaunPour/ShaunPour/blob/main/header.png)
 
-I'm Shaun from Southwest Virginia. I do web development and YouTube programming tutorials. I really enjoy learning languages and frameworks like React, Python and TypeScript. My long-term goal is to get a job doing web development.
+I'm Shaun from Southwest Virginia. Up until recently I was trying to learn front end development but I've started to pivot to doing things on the back end lately. I still do front end but not having to care about visual designs and being able to hover more around the realm of "does it work" rather than "does it look nice" is so much better for me as that's what I tend to think about first.
 
 Skills: REACT / JS / HTML / CSS / SASS / BootStrap / Tailwind
 
-- 🌱 I’m currently learning React & Python 
+- 🌱 I’m currently learning Python and will soon be starting to work on either C or Go. I haven't decided yet. I have a list of things I need to revise a bit on in Python (mostly in the area of Functional Programming which is my weakest area)
 - 📫 How to reach me: Shoot me an email at scpour@gmail.com 
 - ⚡ Fun fact: I was born in Malaysia and once rode an elephant in Thailand! 
 
